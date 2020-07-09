@@ -1,2 +1,2 @@
 todo:
-  keyword: ['tekitou','#\\\\s?\\\\bTODO']
+  exclude: 'doc/'
