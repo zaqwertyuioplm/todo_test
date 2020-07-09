@@ -1,2 +1,1 @@
-# TODO 試験1
-# koreha doukana
+# TODO 試験 1
