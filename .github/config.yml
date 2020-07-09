@@ -1,2 +1,2 @@
 todo:
-  exclude: '^todo_test/doc/'
+  exclude: '^doc/'
