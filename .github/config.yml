@@ -1,2 +1,2 @@
 todo:
-  keyword: ['#\\sTODO','//\\\sTODO']
+  keyword: ['#\sTODO','//\sTODO']

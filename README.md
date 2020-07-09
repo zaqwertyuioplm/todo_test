@@ -1,2 +1,2 @@
 # todo_test
-# TODO 試験1
+todoボットの動作を確認する
